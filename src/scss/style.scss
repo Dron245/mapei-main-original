@@ -1,0 +1,14 @@
+@import './base/base';
+@import './base/variables';
+@import './base/fonts/fonts';
+@import './vendors/swiper-bundle.min.scss';
+@import './blocks/header';
+@import './blocks/main';
+@import './blocks/inputs';
+@import './blocks/layers';
+@import './blocks/calculator';
+@import './blocks/calculator_children';
+@import './blocks/total';
+@import './blocks/sidebar';
+@import './blocks/slider';
+@import './../../node_modules/nouislider/dist/nouislider.min.css';
